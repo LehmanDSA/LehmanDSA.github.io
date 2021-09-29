@@ -1,4 +1,5 @@
-## Data Science Association
+![DSA_Slack_Icon](https://user-images.githubusercontent.com/91616010/135322861-5e3adfbf-6361-47e0-8471-ac683fe17fdf.png)
+
 
 You can use the [editor on GitHub](https://github.com/LehmanDSA/LehmanDSA.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
