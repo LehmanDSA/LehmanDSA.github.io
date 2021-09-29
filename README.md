@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Science Association
 
 You can use the [editor on GitHub](https://github.com/LehmanDSA/LehmanDSA.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
