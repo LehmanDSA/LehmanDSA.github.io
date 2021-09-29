@@ -1,38 +1,42 @@
-![DSA_Slack_Icon](https://user-images.githubusercontent.com/91616010/135322861-5e3adfbf-6361-47e0-8471-ac683fe17fdf.png)
+# Dev Landing Page
 
+Minimal landing page for developers.
 
-You can use the [editor on GitHub](https://github.com/LehmanDSA/LehmanDSA.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-### Markdown
+I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
 
-```markdown
-Syntax highlighted code block
+## Themes
 
-# Header 1
-## Header 2
-### Header 3
+Dev Landing Page comes in 9 **material themes**.
 
-- Bulleted
-- List
+![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
-1. Numbered
-2. List
+If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
 
-**Bold** and _Italic_ and `Code` text
+## GitHub Pages
 
-[Link](url) and ![Image](src)
-```
+GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you already have a GitHub profile (obviously)
 
-### Jekyll Themes
+* Create a new repo with the name `{username}.github.io`
+* Clone/Fork this repo and copy the files to your newly created repo
+* Customize your name, links and everything else for your landing page
+* `git push`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LehmanDSA/LehmanDSA.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Voila! Your site should be live at `https://{username}.github.io`
 
-### Support or Contact
+Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Custom Domain
+
+If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
+
+## License
+
+MIT © Dinesh Pandiyan
